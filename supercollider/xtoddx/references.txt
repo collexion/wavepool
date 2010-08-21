@@ -1,0 +1,10 @@
+Official:
+    Home: http://supercollider.sourceforge.net/
+    Getting Started: http://supercollider.svn.sourceforge.net/viewvc/supercollider/trunk/common/build/Help/Help.html
+
+
+Twitter:
+    @KR9000
+    @redFrik
+    @awhillas
+    http://search.twitter.com/search?q=%23supercollider+play
